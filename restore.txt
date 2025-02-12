@@ -1,1 +1,2 @@
  This us the file to learn restoring commited files
+Making changes in fruit ninja game
