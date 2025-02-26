@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 Planning to change the font and background
+=======
+New feature: color change
+>>>>>>> feature-update
+
+NEXT thing is to change the theme.
+Then we will apply animations to it.
+Lets make it more suitable for users
