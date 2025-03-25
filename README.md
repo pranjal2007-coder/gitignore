@@ -1,6 +1,5 @@
 # Vlogging Site
 
-![Vlogging Site](https://your-image-url.com/banner.png)
 
 ## 📌 Overview
 Vlogging Site is a dynamic platform that allows users to create, share, and engage with video content. Whether you're an aspiring vlogger or an established creator, our site provides the tools you need to build your audience and grow your brand.
